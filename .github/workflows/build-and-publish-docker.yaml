@@ -1,4 +1,4 @@
-#A Simple Node JS Docker Build
+# A Simple Node JS Docker Build
 name: Build & Publish Docker Image
 on:
   release:
